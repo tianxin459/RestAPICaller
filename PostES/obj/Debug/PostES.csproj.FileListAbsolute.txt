@@ -1,0 +1,8 @@
+c:\P4\PostES\PostES\bin\Debug\PostES.exe.config
+c:\P4\PostES\PostES\bin\Debug\PostES.exe
+c:\P4\PostES\PostES\bin\Debug\PostES.pdb
+c:\P4\PostES\PostES\bin\Debug\Newtonsoft.Json.dll
+c:\P4\PostES\PostES\bin\Debug\Newtonsoft.Json.xml
+c:\P4\PostES\PostES\obj\Debug\PostES.csprojResolveAssemblyReference.cache
+c:\P4\PostES\PostES\obj\Debug\PostES.exe
+c:\P4\PostES\PostES\obj\Debug\PostES.pdb
